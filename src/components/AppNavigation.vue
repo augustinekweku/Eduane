@@ -22,6 +22,7 @@
                          <router-link to="/about">Profile</router-link>
                     </v-list-tile-content>
                 </v-list-tile>
+                
                 <v-divider></v-divider>
 
                 <v-list-tile>
