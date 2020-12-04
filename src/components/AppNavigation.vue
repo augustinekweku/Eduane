@@ -60,7 +60,7 @@ export default {
     name: 'AppNavigation',
     data() {
         return{
-            appTitle: 'Meal Prep',
+            appTitle: 'Eduane',
             drawer: false,
             items: [
                 {title: 'Menu', link:'/menu'},
